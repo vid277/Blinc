@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "npm ci && cd src && node app.js"
